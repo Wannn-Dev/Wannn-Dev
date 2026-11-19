@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 402" role="img" aria-labelledby="title desc">
+  <title id="title">WANN / DEV — Software Engineering × Data Engineering</title>
+  <desc id="desc">Engineering reliable systems. Transforming data into impact. Five illuminated nodes connect data sources, ingestion, processing, validation and serving.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#101e33"/>
+      <stop offset="1" stop-color="#080e1c"/>
+    </linearGradient>
+    <linearGradient id="flow">
+      <stop stop-color="#50dffa"/>
+      <stop offset=".55" stop-color="#58eac3"/>
+      <stop offset="1" stop-color="#b9a3fa"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0v24" fill="none" stroke="#8ca8c7" stroke-opacity=".12"/>
+    </pattern>
+    <clipPath id="frame"><rect x="1" y="1" width="898" height="400" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="900" height="402" fill="url(#background)"/>
+    <path d="M522 0h378v274H636L522 160Z" fill="url(#grid)"/>
+    <g fill="none" stroke="#6388a9" stroke-opacity=".24" stroke-width="2">
+      <path d="M715 18v48l55 55h130M778 18v28l53 53h69M865 142v64l-39 39H688"/>
+      <circle cx="715" cy="66" r="5"/><circle cx="831" cy="99" r="5"/><circle cx="688" cy="245" r="5"/>
+    </g>
+    <path d="M55 54h54" stroke="#62e6e1" stroke-width="4" stroke-linecap="round"/>
+    <g font-family="Arial, Helvetica, sans-serif">
+      <text x="51" y="134" font-size="78" font-weight="800" fill="#f3f9ff">WANN <tspan fill="#6be9e4">/</tspan> DEV</text>
+      <text x="55" y="183" font-size="30" font-weight="700" fill="#d9eafb">Software Engineering × Data Engineering</text>
+      <text x="55" y="225" font-size="23" fill="#a9bfd8">Engineering reliable systems. Transforming data into impact.</text>
+    </g>
+    <rect x="42" y="268" width="816" height="103" rx="16" fill="#101c30" stroke="#31445f"/>
+    <path d="M125 305H775" stroke="url(#flow)" stroke-width="3" opacity=".78"/>
+    <g fill="#101c30" stroke-width="3">
+      <circle cx="125" cy="305" r="10" stroke="#50dffa"/>
+      <rect x="278" y="296" width="18" height="18" rx="3" stroke="#52e6df"/>
+      <path d="m450 293 12 12-12 12-12-12z" stroke="#58eac3"/>
+      <path d="m613 294 10 5v12l-10 5-10-5v-12z" stroke="#91d9ef"/>
+      <circle cx="775" cy="305" r="10" stroke="#b9a3fa"/>
+    </g>
+    <g fill="#d9eafb" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" letter-spacing=".7">
+      <text x="125" y="349">DATA SOURCES</text>
+      <text x="287" y="349">INGESTION</text>
+      <text x="450" y="349">PROCESSING</text>
+      <text x="613" y="349">VALIDATION</text>
+      <text x="775" y="349">SERVING</text>
+    </g>
+  </g>
+  <rect x="1" y="1" width="898" height="400" rx="24" fill="none" stroke="#334863" stroke-width="2"/>
+</svg>
