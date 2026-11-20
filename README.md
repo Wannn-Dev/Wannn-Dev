@@ -10,7 +10,7 @@
 </p>
 
 <p>
-  Software engineer based in Malaysia 🇲🇾.
+  Data engineer based in Malaysia 🇲🇾.
 </p>
 
 <p>
