@@ -72,8 +72,7 @@
 ### Cloud
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="22" height="22" alt="" /> AWS &nbsp;·&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/azure/azure-original.svg" width="22" height="22" alt="" /> Microsoft Azure
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="22" height="22" alt="" /> AWS
 </p>
 
 ### DevOps & CI/CD
