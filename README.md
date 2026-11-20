@@ -14,7 +14,7 @@
 </p>
 
 <p>
-  I build backend systems, move data around, and make slow things faster.
+  I build backend systems, move data around and make slow things faster.
   Sometimes I contribute to open source. Sometimes I just stare at the
   terminal until it cooperates.
 </p>
