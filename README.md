@@ -14,7 +14,8 @@ Software engineer based in Malaysia. I work with Python and SQL in data engineer
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/python/python-original.svg" width="22" height="22" alt="" /> Python &nbsp;·&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/php/php-original.svg" width="22" height="22" alt="" /> PHP &nbsp;·&nbsp;
   <img src="assets/sql.svg" width="22" height="22" alt="" /> SQL &nbsp;·&nbsp;
-  <img src="assets/rust.svg" width="22" height="22" alt="" /> Rust
+  <img src="assets/rust.svg" width="22" height="22" alt="" /> Rust &nbsp;·&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/java/java-original.svg" width="22" height="22" alt="" /> Java
 </p>
 
 ### Web & mobile
