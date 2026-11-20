@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72" role="img" aria-labelledby="title">
+  <title id="title">Ray's R monogram with a moving data pulse</title>
+  <defs>
+    <linearGradient id="mark" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#67e8f9"/>
+      <stop offset="1" stop-color="#c4b5fd"/>
+    </linearGradient>
+    <path id="route" d="M24 53V19h15a9 9 0 0 1 0 18H25l25 16"/>
+  </defs>
+  <style>
+    @media (prefers-reduced-motion: reduce) {
+      .pulse { display: none; }
+    }
+  </style>
+  <rect x="1" y="1" width="70" height="70" rx="19" fill="#0b1220" stroke="#49638a" stroke-width="2"/>
+  <use href="#route" fill="none" stroke="url(#mark)" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="24" cy="53" r="4" fill="#0b1220" stroke="#67e8f9" stroke-width="2"/>
+  <circle cx="50" cy="53" r="4" fill="#0b1220" stroke="#c4b5fd" stroke-width="2"/>
+  <circle class="pulse" r="3.2" fill="#fff" stroke="#315273" stroke-width="1">
+    <animateMotion dur="3.8s" keyPoints="0;0;1;1" keyTimes="0;.17;.82;1" calcMode="linear" repeatCount="indefinite">
+      <mpath href="#route"/>
+    </animateMotion>
+  </circle>
+</svg>

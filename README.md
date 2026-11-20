@@ -1,5 +1,8 @@
 
-<h1 align="center">Hey, I'm Ray 👋</h1>
+<p align="center">
+  <img src="assets/ray-mark.svg" width="64" height="64" alt="Ray's animated R monogram" />
+</p>
+<h1 align="center">Hey, I'm Ray</h1>
 
 <p align="center">
   <strong>Data Warehouse | Data Engineering Enthusiast</strong>
