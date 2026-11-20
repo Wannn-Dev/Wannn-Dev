@@ -14,7 +14,7 @@ Software engineer based in Malaysia. I work with Python and SQL in data engineer
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/python/python-original.svg" width="22" height="22" alt="" /> Python &nbsp;·&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/php/php-original.svg" width="22" height="22" alt="" /> PHP &nbsp;·&nbsp;
   <img src="assets/sql.svg" width="22" height="22" alt="" /> SQL &nbsp;·&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/rust/rust-original.svg" width="22" height="22" alt="" /> Rust
+  <img src="assets/rust.svg" width="22" height="22" alt="" /> Rust
 </p>
 
 ### Web & mobile
@@ -38,13 +38,13 @@ Software engineer based in Malaysia. I work with Python and SQL in data engineer
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/oracle/oracle-original.svg" width="22" height="22" alt="" /> Oracle Database &nbsp;·&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/duckdb/duckdb-original.svg" width="22" height="22" alt="" /> DuckDB &nbsp;·&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/postgresql/postgresql-original.svg" width="22" height="22" alt="" /> PostgreSQL &nbsp;·&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/mariadb/mariadb-original.svg" width="22" height="22" alt="" /> MariaDB
+  <img src="assets/mariadb.svg" width="22" height="22" alt="" /> MariaDB
 </p>
 
 ### Data processing
 
 <p>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/15.0.0/icons/polars.svg" width="22" height="22" alt="" /> Polars
+  <img src="assets/polars.svg" width="22" height="22" alt="" /> Polars
 </p>
 
 ### Version control
