@@ -8,21 +8,53 @@ Software engineer based in Malaysia. I work with Python and SQL in data engineer
 
 ## Tech stack
 
-![Tech stack: Python, SQL, Oracle, Polars, DuckDB, FastAPI, Git, and AWS](assets/tech-stack.svg)
-
-**Currently learning** · Apache Spark, Apache Airflow, and Databricks
-
-## GitHub activity
+### Languages
 
 <p>
-  <img width="340" src="https://github-readme-stats.vercel.app/api?username=Wannn-Dev&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=0B1220&amp;title_color=7DD3FC&amp;text_color=E2E8F0" alt="Syazwan's GitHub stats" />
-  <img width="290" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wannn-Dev&amp;layout=compact&amp;hide_border=true&amp;bg_color=0B1220&amp;title_color=C4B5FD&amp;text_color=E2E8F0" alt="Top languages from eligible public repositories" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/python/python-original.svg" width="22" height="22" alt="" /> Python &nbsp;·&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/php/php-original.svg" width="22" height="22" alt="" /> PHP &nbsp;·&nbsp;
+  <img src="https://raw.githubusercontent.com/lucide-icons/lucide/0.468.0/icons/database.svg" width="22" height="22" alt="" /> SQL
 </p>
 
-<sub>Top Languages currently has no eligible public repository data. See Tech stack for the tools I use.</sub>
+### Backend
 
 <p>
-  <img width="440" src="https://github-readme-streak-stats.herokuapp.com/?user=Wannn-Dev&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0B1220&amp;ring=7DD3FC&amp;fire=C4B5FD" alt="GitHub contribution totals and streaks" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/laravel/laravel-original.svg" width="22" height="22" alt="" /> Laravel &nbsp;·&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/fastapi/fastapi-original.svg" width="22" height="22" alt="" /> FastAPI
 </p>
 
-**Connect** · [@Wannn-Dev on GitHub](https://github.com/Wannn-Dev) · [Contribution activity](https://github.com/Wannn-Dev#js-contribution-activity)
+### Databases
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/oracle/oracle-original.svg" width="22" height="22" alt="" /> Oracle Database &nbsp;·&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/duckdb/duckdb-original.svg" width="22" height="22" alt="" /> DuckDB
+</p>
+
+### Data processing
+
+<p>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/15.0.0/icons/polars.svg" width="22" height="22" alt="" /> Polars
+</p>
+
+### Version control
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/git/git-original.svg" width="22" height="22" alt="" /> Git
+</p>
+
+### Cloud
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="22" height="22" alt="" /> AWS &nbsp;·&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/azure/azure-original.svg" width="22" height="22" alt="" /> Microsoft Azure
+</p>
+
+### Currently learning
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/apachespark/apachespark-original.svg" width="22" height="22" alt="" /> Apache Spark &nbsp;·&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/apacheairflow/apacheairflow-original.svg" width="22" height="22" alt="" /> Apache Airflow &nbsp;·&nbsp;
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/15.0.0/icons/databricks.svg" width="22" height="22" alt="" /> Databricks
+</p>
+
+**Connect** · [@Wannn-Dev on GitHub](https://github.com/Wannn-Dev)
