@@ -13,21 +13,32 @@ Software engineer based in Malaysia. I work with Python and SQL in data engineer
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/python/python-original.svg" width="22" height="22" alt="" /> Python &nbsp;·&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/php/php-original.svg" width="22" height="22" alt="" /> PHP &nbsp;·&nbsp;
-  <img src="https://raw.githubusercontent.com/lucide-icons/lucide/0.468.0/icons/database.svg" width="22" height="22" alt="" /> SQL
+  <img src="assets/sql.svg" width="22" height="22" alt="" /> SQL &nbsp;·&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/rust/rust-original.svg" width="22" height="22" alt="" /> Rust
+</p>
+
+### Web & mobile
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/nextjs/nextjs-original.svg" width="22" height="22" alt="" /> Next.js &nbsp;·&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/react/react-original.svg" width="22" height="22" alt="" /> React Native
 </p>
 
 ### Backend
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/laravel/laravel-original.svg" width="22" height="22" alt="" /> Laravel &nbsp;·&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/fastapi/fastapi-original.svg" width="22" height="22" alt="" /> FastAPI
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/fastapi/fastapi-original.svg" width="22" height="22" alt="" /> FastAPI &nbsp;·&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/supabase/supabase-original.svg" width="22" height="22" alt="" /> Supabase
 </p>
 
 ### Databases
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/oracle/oracle-original.svg" width="22" height="22" alt="" /> Oracle Database &nbsp;·&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/duckdb/duckdb-original.svg" width="22" height="22" alt="" /> DuckDB
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/duckdb/duckdb-original.svg" width="22" height="22" alt="" /> DuckDB &nbsp;·&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/postgresql/postgresql-original.svg" width="22" height="22" alt="" /> PostgreSQL &nbsp;·&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/mariadb/mariadb-original.svg" width="22" height="22" alt="" /> MariaDB
 </p>
 
 ### Data processing
