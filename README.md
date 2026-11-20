@@ -56,10 +56,11 @@
   <img src="assets/mariadb.svg" width="22" height="22" alt="" /> MariaDB
 </p>
 
-### Data processing
+### Data processing & formats
 
 <p>
-  <img src="assets/polars.svg" width="22" height="22" alt="" /> Polars
+  <img src="assets/polars.svg" width="22" height="22" alt="" /> Polars &nbsp;·&nbsp;
+  <img src="assets/parquet.svg" width="22" height="22" alt="" /> Apache Parquet
 </p>
 
 ### Version control
@@ -73,6 +74,14 @@
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="22" height="22" alt="" /> AWS &nbsp;·&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/azure/azure-original.svg" width="22" height="22" alt="" /> Microsoft Azure
+</p>
+
+### DevOps & CI/CD
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/azuredevops/azuredevops-original.svg" width="22" height="22" alt="" /> Azure DevOps &nbsp;·&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/docker/docker-original.svg" width="22" height="22" alt="" /> Docker &nbsp;·&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/githubactions/githubactions-original.svg" width="22" height="22" alt="" /> GitHub Actions
 </p>
 
 ### Currently learning
