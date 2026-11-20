@@ -66,7 +66,7 @@ Software engineer based in Malaysia. I work with Python and SQL in data engineer
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/apachespark/apachespark-original.svg" width="22" height="22" alt="" /> Apache Spark &nbsp;·&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/apacheairflow/apacheairflow-original.svg" width="22" height="22" alt="" /> Apache Airflow &nbsp;·&nbsp;
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/15.0.0/icons/databricks.svg" width="22" height="22" alt="" /> Databricks
+  <img src="assets/databricks.svg" width="22" height="22" alt="" /> Databricks
 </p>
 
 **Connect** · [@Wannn-Dev on GitHub](https://github.com/Wannn-Dev)
