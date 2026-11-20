@@ -1,10 +1,24 @@
-<h1 align="center">Hi, I'm Syazwan 👋</h1>
-<p align="center"><strong>Software Engineer | Data Engineering Enthusiast</strong></p>
+
+<h1 align="center">Hey, I'm Ray 👋</h1>
+
 <p align="center">
-  <img width="330" src="assets/typing-interests.svg" alt="Interests in backend development, data pipelines, and open source" />
+  <strong>Data Warehouse | Data Engineering Enthusiast</strong>
 </p>
 
-Software engineer based in Malaysia. I work with Python and SQL in data engineering and enjoy building backend tools, improving data pipelines, and contributing to open source.
+<p align="center">
+  <img width="330" src="assets/typing-interests.svg" alt="Backend development, data pipelines, and open source" />
+</p>
+
+<p>
+  Software engineer based in Malaysia 🇲🇾.
+</p>
+
+<p>
+  I build backend systems, move data around, and make slow things faster.
+  Sometimes I contribute to open source. Sometimes I just stare at the
+  terminal until it cooperates.
+</p>
+
 
 ## Tech stack
 
